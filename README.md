@@ -17,12 +17,9 @@
 ## 1) Introduction
 
 ### Research Objective
-The goal of this research is to identify factors influencing consumption expectations among Italians at the end of 2021. We will analyze variables such as income, employment status, savings, and other socio-economic factors.
+The goal of this research is to identify factors influencing consumption expectations among Italians at the end of 2021. The analysis examined variables such as income, employment status, savings, and other socio-economic factors.
 
-The analysis focuses on predicting whether consumption expectations exceed or equal savings and earnings (`1`) or if savings and earnings are sufficient for the next year's consumption (`0`).
-
-### Importance
-This analysis helps policymakers understand the main factors driving consumption expectations, allowing them to design policies that boost confidence and stimulate economic growth.
+The analysis focuses on predicting whether consumption expectations exceed or equal savings and earnings (`1`) or if savings and earnings are sufficient for the next year's consumption (`0`). This analysis aims to help policymakers understand the main factors driving consumption expectations, allowing them to design policies that boost confidence and stimulate economic growth.
 
 ---
 
