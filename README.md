@@ -1,19 +1,5 @@
 # Analysis of the Relevant Factors Influencing Consumption Estimates
 
-## Index
-1. [Introduction](#introduction)
-2. [Dataset Description](#dataset-description)
-3. [Data Preprocessing](#data-preprocessing)
-4. [Descriptive Statistics and Data Visualization](#descriptive-statistics-and-data-visualization)
-5. [Feature Management](#feature-management)
-6. [Machine Learning Techniques](#machine-learning-techniques)
-7. [Model Comparison](#model-comparison)
-8. [Validation and Test Set Performance](#validation-and-test-set-performance)
-9. [Economic and Financial Interpretation](#economic-and-financial-interpretation)
-10. [Conclusion](#conclusion)
-
----
-
 ## 1) Introduction
 
 ### Research Objective
