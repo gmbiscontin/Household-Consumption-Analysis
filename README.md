@@ -60,10 +60,6 @@ The dataset was divided into three parts:
 - **Test Set**: 10% (624 rows)
 - **Validation Set**: 10% (624 rows)
 
-### Variable Distribution
-- The variable `S` (savings) showed a wide distribution.
-- `CLETA5` (age categories) revealed underrepresentation of respondents under 34 years old.
-
 ---
 
 ## 5) Feature Management
@@ -98,7 +94,8 @@ Several machine learning models were applied to predict consumption expectations
 ### Regularization Models (Ridge, Lasso, Elastic-Net)
 - **Ridge**: Minimizes the magnitude of coefficients to address multicollinearity.
 - **Lasso**: Shrinks some coefficients to zero, helping in feature selection.
-- **Elastic-Net**: A combination of Ridge and Lasso regularization techniques.
+- **Elastic-Net**: A combination of Ridge and Lasso regularization techniques,  \text{Elastic Net} = \underset{\beta_0, \beta_1, \dots, \beta_p}{\text{minimize}} \left[ \text{RSS} + \lambda_1 \sum_{j=1}^{p} |\beta_j| + \lambda_2 \sum_{j=1}^{p} \beta_j^2 \right]
+
 
 ### Random Forest & XGBoost
 - **Random Forest**: Uses an ensemble of decision trees to reduce overfitting.
